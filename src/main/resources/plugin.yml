@@ -1,0 +1,4 @@
+name: MessGame
+version: ${project.version}
+main: net.domdev.messgame.MessGame
+api-version: 1.13
